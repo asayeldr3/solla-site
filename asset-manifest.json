@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/solla-site/static/css/main.e6c13ad2.css",
+    "main.js": "/solla-site/static/js/main.3c30e187.js",
+    "index.html": "/solla-site/index.html",
+    "main.e6c13ad2.css.map": "/solla-site/static/css/main.e6c13ad2.css.map",
+    "main.3c30e187.js.map": "/solla-site/static/js/main.3c30e187.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3c30e187.js"
+  ]
+}
