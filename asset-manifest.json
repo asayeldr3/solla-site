@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/solla-site/static/css/main.f855e6bc.css",
+    "main.css": "/solla-site/static/css/main.abb8f5d0.css",
     "main.js": "/solla-site/static/js/main.6ac83455.js",
     "index.html": "/solla-site/index.html",
-    "main.f855e6bc.css.map": "/solla-site/static/css/main.f855e6bc.css.map",
+    "main.abb8f5d0.css.map": "/solla-site/static/css/main.abb8f5d0.css.map",
     "main.6ac83455.js.map": "/solla-site/static/js/main.6ac83455.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
+    "static/css/main.abb8f5d0.css",
     "static/js/main.6ac83455.js"
   ]
 }
